@@ -86,14 +86,6 @@ Target variable:
 
 Selling Price
 
-⚙️ Installation & Setup
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/Car-Price-Prediction.git
-cd Car-Price-Prediction
-
-2️⃣ Install Dependencies
-pip install -r requirements.txt
-
 🧪 Train the Model
 
 Run the training script to train models and save the best one:
@@ -109,9 +101,6 @@ scaler.pkl
 
 🚀 Run the Streamlit App
 streamlit run app.py
-
-
-Open the local URL shown in the terminal to access the web app.
 
 🌐 Streamlit App Features
 
@@ -164,3 +153,4 @@ Linkedin:https://www.linkedin.com/in/aadarsh-shukla-803147370
 ⭐ If you like this project
 
 Give it a star ⭐ on GitHub — it motivates me to build more!
+
